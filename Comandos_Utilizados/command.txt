@@ -1,0 +1,1 @@
+El comando cp sirve para copiar uno, o varios o todos los archivos a un directorio, e incluso copiar directorios completos
